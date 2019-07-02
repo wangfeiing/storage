@@ -5,3 +5,6 @@ const STORAGE_ROOT  = "/Users/feifei/go/src/storage/data"
 
 //服务器地址
 const LISTEN_ADDRESS  = ":1234"
+
+//rabbit mq 服务器地址
+const RabbitMQServer  = ""
